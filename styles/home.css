@@ -50,10 +50,11 @@ background-size: cover;
 .home-main-text{
   color: white;
   font-size: 75px;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: Interstate;
+  font-weight: bold;
   text-align: center;
   padding-top: 145px;
-  letter-spacing: 15px;
+  letter-spacing: 8px;
 }
 .home-buttons{
 
@@ -70,6 +71,8 @@ background-size: cover;
   padding-left: 25px;
   border-radius: 10px;
   font-size: 30px;
+  font-family: Interstate;
+  font-weight: lighter;
 }
 .build-button{
   height: 100px;
@@ -77,6 +80,8 @@ background-size: cover;
   padding-right: 25px;
   border-radius: 10px;
   font-size: 30px;
+  font-family: Interstate;
+  font-weight: lighter;
 }
 .home-zoom{
   font-size: 50px;
@@ -84,9 +89,134 @@ background-size: cover;
   text-align: center;
   font-family: 'Orbitron', sans-serif;
   padding-top: 40px;
+}
+.red-mazda3-img{
+  background-image: url("https://www.mazdausa.com/siteassets/images/home/14-update/m35dr_tout_update.jpg?w=767");
+  height: 500px;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.red-mazda3-text{
+  height: 230px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+.mazda3{
+  text-align: center;
+    font-size: 35px;
+    padding-left: 140px;
+    padding-top: 60px;
+    font-family: Interstate;
+    font-weight: bold;
+
+}
+.crafted{
+font-size: 35px;
+padding-left: 105px;
+padding-bottom: 75px;
+color: #9a9a9a;
+font-family: Interstate;
+font-weight: lighter;
+}
+.black-mazdamx5-img{
+background-image: url("https://www.mazdausa.com/siteassets/images/home/14-update/2017-mx5-rf-side.jpg?w=767");
+height: 500px;
+width: 100vw;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.black-mazdamx5-text{
+  height: 230px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.mazdamx5{
+  text-align: center;
+    font-size: 35px;
+    padding-left: 110px;
+    padding-top: 60px;
+    font-family: Interstate;
+    font-weight: bold;
+}
+.anIcon{
+  font-size: 35px;
+  padding-left: 245px;
+  padding-bottom: 75px;
+  color: #9a9a9a;
+  font-family: Interstate;
+  font-weight: lighter;
+}
+
+.red-mazdacx5-img{
+  background-image: url("https://www.mazdausa.com/siteassets/images/home/14-update/2016.5-cx5.jpg?w=767");
+  height: 500px;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mazdacx5-text{
+  height: 230px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 
 }
 
+
+.mazdacx5{
+  text-align: center;
+    font-size: 35px;
+    padding-left: 165px;
+    padding-top: 60px;
+    font-family: Interstate;
+    font-weight: bold;
+}
+.predictive{
+  font-size: 35px;
+  padding-left: 105px;
+  padding-bottom: 75px;
+  color: #9a9a9a;
+  font-family: Interstate;
+  font-weight: lighter;
+
+}
+.build-background{
+background-image: url("https://www.mazdausa.com/siteassets/images/home/14-update/bf_02.jpg");
+width: 100vw;
+height: 900px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.build-2017{
+  text-align: center;
+  padding-top: 125px;
+  color: white;
+  font-size: 40px;
+  font-family: interstate;
+  font-weight: lighter;
+}
+.build-header{
+  text-align: center;
+    padding-top: 45px;
+    color: white;
+    font-size: 43px;
+    padding-left: 110px;
+    padding-right: 110px;
+    font-family: interstate;
+    font-weight: bold;
+    letter-spacing: 9px;
+}
 
 
 
