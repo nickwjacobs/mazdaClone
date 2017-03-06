@@ -1,0 +1,104 @@
+.home-header{
+  height: 220px;
+  padding: 0px 12px 0px 12px;
+  max-width: 100%;
+  background-color: rgb(25, 25, 25);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  white-space: nowrap;
+  overflow: hidden;
+  color: #959999;
+
+}
+.home-logo{
+background-image: url("https://www.mazdausa.com/contentassets/ef3a539342674bed9e36d271984b54d0/mazda-logo-mobile2x.png");
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+height: 150px;
+width: 420px;
+margin-left: 50px;
+}
+.map-ham{
+  font-size: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  letter-spacing: 45px;
+  height: 200px;
+  width: 200px;
+  padding-right: 45px;
+}
+
+
+.home-map-marker{
+}
+.ham-menu{
+  border-left: 2px solid #959999;
+  padding-left: 45px;
+
+}
+.home-landing-img{
+background-image: url("https://www.mazdausa.com/siteassets/images/home/14-update/overview-hero-mobile_responsive.jpg");
+width: 100vw;
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.home-main-text{
+  color: white;
+  font-size: 75px;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  padding-top: 145px;
+  letter-spacing: 15px;
+}
+.home-buttons{
+
+  display: flex;
+  justify-content: space-between;
+  padding-top: 560px;
+  font-family: 'Fjalla One', sans-serif;
+
+
+}
+.explore-button{
+  height: 100px;
+  width: 360px;
+  padding-left: 25px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.build-button{
+  height: 100px;
+  width: 360px;
+  padding-right: 25px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.home-zoom{
+  font-size: 50px;
+  color: #828A8F;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  padding-top: 40px;
+
+}
+
+
+
+
+
+
+/*.home-links{
+  display: flex;
+  justify-content: space-between;
+  color: #959999;
+  width: 55vw;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 3px;
+  font-size: 13px
+
+}*/
